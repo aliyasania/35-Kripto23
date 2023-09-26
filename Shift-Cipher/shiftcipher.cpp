@@ -1,8 +1,8 @@
 /*
 Nama        : Aliya Sania
-NPM         : 140810210005
+NPM         : 140810210035
 Kelas       : A
-dekripsi    : Tugas 2 Enkripsi Dekripsi dengan Shift Cipher
+Deskripsi    : Tugas 2 Program Enkripsi Dekripsi dengan Shift Cipher
 */
 
 #include <iostream>
